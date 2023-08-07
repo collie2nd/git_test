@@ -18,3 +18,5 @@
 
 
 dev-handler
+
+3.0
